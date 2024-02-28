@@ -1,3 +1,5 @@
+### 코드가 2023년까지는 작동했지만 24년부터 네이버 검색 방식이 달라져서 수정이 필요함
+
 library(KoNLP)      
 library(wordcloud)  
 library(dplyr)      
